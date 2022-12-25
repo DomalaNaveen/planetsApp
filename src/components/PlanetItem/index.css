@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.image {
+  width: 70%;
+}
+.planet-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

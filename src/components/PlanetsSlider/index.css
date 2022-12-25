@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.planet-slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
